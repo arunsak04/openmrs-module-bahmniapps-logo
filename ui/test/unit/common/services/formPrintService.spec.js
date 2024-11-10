@@ -77,7 +77,7 @@ describe('FormPrintService', function () {
         printData.printConfig = { 
                                     templateUrl: 'common/views/formPrint.html',
                                     header: 'Form',
-                                    title: 'Bahmni Hospital',
+                                    title: 'CY Medical',
                                     observationsConcepts: ["WEIGHT"],
                                     printDiagnosis:{
                                         "order": "PRIMARY",
@@ -135,7 +135,7 @@ describe('FormPrintService', function () {
         printData.printConfig = { 
                                     templateUrl: 'common/views/formPrint.html',
                                     header: 'Form',
-                                    title: 'Bahmni Hospital',
+                                    title: 'CY Medical',
                                     observationsConcepts: ["WEIGHT"],
                                     printDiagnosis:{
                                         "order": "PRIMARY",
@@ -193,7 +193,7 @@ describe('FormPrintService', function () {
         printData.printConfig = { 
                                     templateUrl: 'common/views/formPrint.html',
                                     header: 'Form',
-                                    title: 'Bahmni Hospital',
+                                    title: 'CY Medical',
                                     observationsConcepts: ["WEIGHT"],
                                     printDiagnosis:{
                                         "order": "PRIMARY",
@@ -251,7 +251,7 @@ describe('FormPrintService', function () {
         printData.printConfig = { 
                                     templateUrl: 'common/views/formPrint.html',
                                     header: 'Form',
-                                    title: 'Bahmni Hospital',
+                                    title: 'CY Medical',
                                     observationsConcepts: ["WEIGHT"],
                                     printDiagnosis:{
                                         "order": "PRIMARY",
